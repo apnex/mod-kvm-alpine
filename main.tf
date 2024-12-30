@@ -30,7 +30,10 @@ resource "libvirt_domain" "alpine-01" {
 	}
 	vcpu	= 2
 	memory	= 2048
-
+	console {
+		type        = "pty"
+		target_port = "0"
+	}
 	network_interface {
 	}
 	disk {

@@ -1,0 +1,3 @@
+# https://www.reddit.com/r/kubernetes/comments/14o06w6/docker_pull_through_cache_to_multiple_upstreams/
+# https://medium.com/@elementtech.dev/kubernetes-image-proxy-cache-from-minutes-to-milliseconds-fd14173e831f
+# https://github.com/indeedeng/harbor-container-webhook
